@@ -1,0 +1,161 @@
+
+
+
+.liste1{
+    background-color: rgba(38, 79, 155, 0.582);
+   color: white;
+    font-size: 25px;
+   padding: 43px;
+   width: 97%;
+
+}
+
+
+
+ 
+a{
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+   font-size: 20px;
+   
+}
+
+
+
+
+.mouma{
+    
+    position: relative;
+    right: -300px;
+    font-size: 60px;
+    color: black;
+    border-radius: 0px;
+    padding: 30px;
+    width: 700px;
+    font-family: "Sevillana";
+  text-align: center;
+
+}
+
+#flexbox-ville{
+   
+    display: grid;
+    grid-template-columns: repeat(3,2fr );
+    gap: 30px;
+    position: relative;
+    top: 30px;
+    right: 250px;
+}
+
+
+
+#ville{
+
+    background-size: cover;
+    width: 70%;
+    height: 150px;
+    position: relative;
+    top: 100px;
+    right: -250px;
+    border: 5px solid black;
+    border-radius: px;
+    font-size: -100px;
+    color: white;
+    text-shadow: 0 0 30px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'pacifico';
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+    
+}
+
+.b1{
+    background-image:url("https://www.espritbois.eu/public/img/big/572371718BA74189BE922BDD5C3087D8jpeg_5fb518cfdbfa5.jpeg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+  
+ 
+}
+
+.b2{
+    background-image:url("https://absolu-cuisine.fr/wp-content/uploads/2021/02/showroom-contact-min.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.b3{
+    background-image:url("https://cdn.visite360pro.com/wp-content/uploads/2022/06/bc-rsb-3.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+
+.b4{
+    background-image:url("https://www.eficoncept.fr/media/showroom_cuisine_efi_concept.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+
+.b5{
+    background-image: url("https://cdn.siematic.com/site/assets/files/93391/siematic-paris-7-cuisines-joniel-showroom-cuisines-allemandes-luxe_15.320x0.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+ }
+
+ .b6{
+    background-image: url("https://www.espritbois.eu/public/img/big/572371718BA74189BE922BDD5C3087D8jpeg_5fb518cfdbfa5.jpeg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+ }
+
+
+ 
+
+ .polo{
+    font-size: 10px;
+    position: relative;
+    top:120px;
+    right: -1280px;
+    padding: 10px;
+    background-color: rgba(38, 79, 155, 0.582); 
+    border-radius: 20px;
+}
+
+.suite{
+    color: black;
+    position: relative;
+top: 145px;
+    right: -915px;
+    font-size: 20px;
+}
+
+
+.cla{
+    position: relative;
+    top: px;
+    
+}
+
+
+.res{
+color: white;
+    text-align: center;
+    width: 300px;
+    position: relative;
+    right: -1100px;
+    top: -90px;
+font-size: 25px;
+display: flex;
+justify-content: space-between;
+}

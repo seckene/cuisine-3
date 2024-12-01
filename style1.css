@@ -1,0 +1,164 @@
+
+
+
+.liste1{
+    background-color: rgba(38, 79, 155, 0.582);
+   color: white;
+    font-size: 25px;
+   padding: 43px;
+   width: 97%;
+
+}
+
+
+
+ 
+a{
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+   font-size: 20px;
+   
+}
+.cla{
+    position: relative;
+    top: px;
+    
+}
+
+
+.res{
+color: white;
+    text-align: center;
+    width: 300px;
+    position: relative;
+    right: -1100px;
+    top: -90px;
+font-size: 25px;
+display: flex;
+justify-content: space-between;
+}
+
+
+.mouma{
+    font-family: "Sevillana";
+  position: relative;
+  right: -300px;
+  font-size: 60px;
+  color: black;
+  border-radius: 0px;
+  padding: 30px;
+  width: 700px;
+
+text-align: center;
+}
+
+#flexbox-ville{
+   
+    display: grid;
+    grid-template-columns: repeat(6,4fr );
+    gap: 30px;
+    position: relative;
+    top: 90px;
+    right: 0px;
+}
+
+#ville{
+
+    background-size: cover;
+    width: 85%;
+    height: 200px;
+    border: 5px solid white;
+    border-radius: px;
+    font-size: 50px;
+    color: orange;
+    text-shadow: 0 0 30px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'pacifico';
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+    
+}
+
+
+#ville:hover{
+    border: 5px solid black ;
+   width: 100%;
+   position: relative;
+   justify-content: space-between;
+  
+    transition: 1s;
+
+}
+
+
+
+.b1{
+    background-image:url("https://archisdesign.fr/wp-content/uploads/2022/06/archisdesign-cuisine-de-luxe-modele-way-verde-alpi-769x400.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+  
+ 
+}
+
+.b2{
+    background-image:url("https://archisdesign.fr/wp-content/uploads/2022/06/archisdesign-cuisine-de-luxe-italienne-finition-metal-link-833x433.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.b3{
+    background-image:url("https://www.ateliercdcuisine.fr/public/img/big/3czetaseihrjpg5e3beef2c48d8jpg_60edb98013488.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+
+.b4{
+    background-image:url("https://www.snaidero-st-tropez.fr/assets/images/cucine-design-moderne-way-materia-snaidero-4-906x647.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+
+.b5{
+    background-image: url("https://archisdesign.fr/wp-content/uploads/2024/01/archisdesign-cuisine-de-luxe-italienne-ilot-833x433.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+ }
+
+ 
+
+ .b8{
+    background-image: url("https://www.snaidero-st-tropez.fr/assets/images/cucine-classiche-opera-snaidero-1200x750-800x500.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+ }
+
+
+.polo{
+    font-size: 10px;
+    position: relative;
+    top:120px;
+    right: -1180px;
+    padding: 1px;
+    background-color: rgba(38, 79, 155, 0.582); 
+    border-radius: 20px;
+}
+
+.suite{
+    color: black;
+    position: relative;
+top: 145px;
+    right: -890px;
+    font-size: 20px;
+}

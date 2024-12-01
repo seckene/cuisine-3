@@ -1,0 +1,34 @@
+.dialog-box {
+    background-color: #f9f9f9; /* Couleur de fond */
+    border: 2px solid #4CAF50; /* Bordure */
+    border-radius: 15px; /* Coins arrondis */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Ombre portée */
+    padding: 20px; /* Espacement interne */
+    width: 300px; /* Largeur de la boîte */
+    margin: 20px auto; /* Centrer la boîte */
+    text-align: center; /* Centrer le texte */
+}
+
+.dialog-box h2 {
+    color: #4CAF50; /* Couleur du titre */
+    font-family: 'Arial', sans-serif; /* Police */
+}
+
+.dialog-box p {
+    color: #333; /* Couleur du texte */
+    margin: 15px 0; /* Marge autour du texte */
+}
+
+.btn {
+    background-color: #4CAF50; /* Couleur du bouton */
+    color: white; /* Couleur du texte du bouton */
+    border: none; /* Pas de bordure */
+    border-radius: 5px; /* Coins du bouton arrondis */
+    padding: 10px 15px; /* Espacement interne du bouton */
+    cursor: pointer; /* Changer le curseur au survol */
+    transition: background-color 0.3s; /* Effet de transition */
+}
+
+.btn:hover {
+    background-color: #45a049; /* Couleur au survol */
+}

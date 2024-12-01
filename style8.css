@@ -1,0 +1,97 @@
+.liste1{
+    background-color: rgba(38, 79, 155, 0.582);
+   color: white;
+    font-size: 25px;
+   padding: 43px;
+   width: 97%;
+
+}
+
+
+
+ 
+a{
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+   font-size: 20px;
+   
+}
+
+
+
+
+.mouma{
+  position: relative;
+ 
+  font-size: 50px;
+  top: -20px;
+ 
+  text-align: center;
+}
+
+#flexbox-ville{
+   
+   
+    gap: 30px;
+    position: relative;
+    top: -100px;
+
+}
+
+#ville:hover{
+    width: 70%;
+    height: 500px;
+    transition: 1s;
+}
+
+#ville{
+    transition: 1s;
+    background-size: cover;
+    width: 60%;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    right: -250px;
+    border: 5px solid black;
+    border-radius: px;
+    font-size: -100px;
+    color: orange;
+    text-shadow: 0 0 30px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'pacifico';
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+    
+}
+
+
+.b1{
+    background-image:url("https://archisdesign.fr/wp-content/uploads/2024/01/archisdesign-cuisine-de-luxe-italienne-ilot-833x433.jpg");
+    background-repeat: no-repeat;
+
+  
+ 
+}
+
+.polo{
+    font-size: 20px;
+    position: relative;
+    top:150px;
+    right: -1000px;
+    padding: 10px;
+
+}
+
+
+.texte{
+    font-size: 17px;
+    width: 900px;
+    position: relative;
+    top: 100px;
+    padding: auto;
+   right: -300px;
+    display:block;
+    font-family: "Philosopher";
+}
